@@ -100,9 +100,10 @@ public class SignUpFormActivity extends AppCompatActivity {
                     @Override
                     public void onComplete(DatabaseError databaseError, DatabaseReference databaseReference) {
                         if(databaseError != null){
-                            Toast.makeText(SignUpFormActivity.this, "Success", Toast.LENGTH_SHORT).show();
-                        } else {
                             Toast.makeText(SignUpFormActivity.this, "Error", Toast.LENGTH_SHORT).show();
+                            System.out.println(databaseError.getMessage());
+                        } else {
+                            Toast.makeText(SignUpFormActivity.this, "Success", Toast.LENGTH_SHORT).show();
                         }
                     }
                 });

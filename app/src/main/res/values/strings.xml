@@ -6,10 +6,6 @@
     <string name="name">Name</string>
     <string name="nim">NIM</string>
 
-    <array name="zero">
-        <item> </item>
-    </array>
-
     <array name="faculty">
         <item>Industrial Engineering</item>
         <item>Electrical Engineering</item>
