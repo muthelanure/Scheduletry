@@ -6,7 +6,8 @@ import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.google.firebase.database.ChildEventListener;
+import com.example.idamahmudah.scheduletry.Model.DataModel;
+import com.example.idamahmudah.scheduletry.Model.ScheduleModel;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;

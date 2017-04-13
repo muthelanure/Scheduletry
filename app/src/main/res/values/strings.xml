@@ -1,3 +1,83 @@
 <resources>
     <string name="app_name">Scheduletry</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="nim">NIM</string>
+
+    <array name="zero">
+        <item> </item>
+    </array>
+
+    <array name="faculty">
+        <item>Industrial Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Computing</item>
+    </array>
+
+    <array name="majorIE">
+        <item>Industrial Engineering</item>
+        <item>Information System</item>
+    </array>
+
+    <array name="majorEE">
+        <item>Electrical Engineering</item>
+        <item>Computer System</item>
+        <item>Telecommunication Engineering</item>
+        <item>Physics Engineering</item>
+    </array>
+
+    <array name="majorC">
+        <item>Computational Science</item>
+        <item>Informatics</item>
+    </array>
+
+    <array name="classIE">
+        <item>TI-38-01</item>
+        <item>TI-38-02</item>
+        <item>TI-38-03</item>
+    </array>
+
+    <array name="classIS">
+        <item>SI-38-01</item>
+        <item>SI-38-02</item>
+        <item>SI-38-03</item>
+    </array>
+
+    <array name="classEE">
+        <item>EE-38-01</item>
+        <item>EE-38-02</item>
+        <item>EE-38-03</item>
+    </array>
+
+    <array name="classEECS">
+        <item>CS-38-01</item>
+        <item>CS-38-02</item>
+        <item>CS-38-03</item>
+    </array>
+
+    <array name="classTE">
+        <item>TE-38-01</item>
+        <item>TE-38-02</item>
+        <item>TE-38-03</item>
+    </array>
+
+    <array name="classPE">
+        <item>PE-38-01</item>
+        <item>PE-38-02</item>
+        <item>PE-38-03</item>
+    </array>
+
+    <array name="classCCS">
+        <item>CS-38-01</item>
+        <item>CS-38-02</item>
+        <item>CS-38-03</item>
+    </array>
+
+    <array name="classIF">
+        <item>IF-38-01</item>
+        <item>IF-38-02</item>
+        <item>IF-38-03</item>
+    </array>
 </resources>
